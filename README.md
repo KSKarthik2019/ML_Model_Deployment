@@ -6,10 +6,10 @@ Solution: This excercise shows you how to deploy a machine learning (ML) model u
 1. This project is created with PyCharm IDE.
 
 2. It has below-mentioned files: 
-   2.1. LifeSatisfactionModel.py
-   2.2. webservice.py
-   2.3. request.py
-   2.4. templates folder, which consists of index.html file. 
+   (a). LifeSatisfactionModel.py
+   (b). webservice.py
+   (c). request.py
+   (d). templates folder, which consists of index.html file. 
    
 3. Environment: Python 3.7, NumPy, Pandas, Scikit Learn, Flask and Ngrok. 
 
